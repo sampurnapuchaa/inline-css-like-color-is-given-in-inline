@@ -1,0 +1,1 @@
+# inline-css-like-color-is-given-in-inline
